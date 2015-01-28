@@ -12,19 +12,19 @@
 </head>
 <body>
 <div class="container">
-<table class="table table-bordered table-condenced table:hover table-striped ">
-<thead>
-<tr><th>S.No</th><th>Name</th><th>Number</th><th>Depatment</th>
-</thead>
+<table class="table table-bordered table-condenced table:hover table-striped">
+<thead><i>
+<tr><th>S.No</th><th>Name</th><th>Number</th><th>Depatment</th><th>Salory</th><th>Company</th>
+</thead></i>
 <tbody>
 <tr>
-<td>0</td><td>ramesh</td><td>9014970353</td><td>Civil</td>
+<td>0</td><td>ramesh</td><td>9014970353</td><td>Civil</td><td>30,000</td><td>IBM</td>
 </tr>
 <tr>
-<td>1</td><td>venu</td><td>9014980520</td><td>CSE</td>
+<td>1</td><td>venu</td><td>9014980520</td><td>CSE</td><td>45,000</td><td>Infosis</td>
 </tr>
 <tr>
-<td>2</td><td>vamsi</td><td>9945488745</td><td>Designe</td>
+<td>2</td><td>vamsi</td><td>9945488745</td><td>Designe</td><td>55,000</td><td>MS</td>
 </tr>
 </tbody>
 </table>
