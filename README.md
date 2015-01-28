@@ -12,7 +12,7 @@
 </head>
 <body>
 <div class="container">
-<table class="table table-bordered table-condenced table:hover table-striped">
+<table class="table table-borderd table-condenced table:hover">
 <thead><i>
 <tr><th>S.No</th><th>Name</th><th>Number</th><th>Depatment</th><th>Salory</th><th>Company</th>
 </thead></i>
